@@ -1,0 +1,12 @@
+.git
+
+.*\.py[co]$
+.ipynb_checkpoints
+__pycache__/
+
+.*env$/
+venv/
+
+.DS_Store
+
+RISE
